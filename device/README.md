@@ -10,9 +10,9 @@ This is the lowest voltage NMOS device after the 1.8V FETs. As such it will prob
 ### 10 &mu;m Width / 0.5 &mu;m Length 
 | Parameter                       | Value |
 |---------------------------------|-------|
-| V<sub>th</sub>                  | x     |
-| &mu;<sub>n</sub> C<sub>ox</sub> | x     |
-| C<sub>ox</sub>                  | x     |
-| &lambda;                        | x     |
-| R<sub>on</sub>                  | x     |
+| V<sub>th</sub>                  | 0.7V     |
+| &mu;<sub>n</sub> C<sub>ox</sub> | 125 &mu;AV<sup>-2</sup>;   |
+| C<sub>ox</sub>                  | 2fF &mu;m<sup>-2</sup>   |
+| &lambda;                        | 0.25 V<sup>-1</sup>    |
+| R<sub>on</sub>                  | 267 &Omega; |
 
